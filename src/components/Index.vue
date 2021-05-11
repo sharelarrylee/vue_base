@@ -9,7 +9,7 @@
 export default {
   name: 'Index',
   data () {
-    return {
+    return { 
       msg: 'this is Index page...'
     }
   },
